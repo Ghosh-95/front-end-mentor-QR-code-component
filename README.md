@@ -1,5 +1,10 @@
 # Frontend Mentor - QR code component
 
+
+### [Click here](https://ghosh-95.github.io/front-end-mentor-QR-code-component/) to view Final Project
+
+---
+
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
